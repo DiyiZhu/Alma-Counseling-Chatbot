@@ -34,8 +34,7 @@ cd Alma-Counseling-Chatbot
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # macOS / Linux
-venv\Scripts\activate      # Windows
+source venv/bin/activate
 
 pip install -r requirements.txt
 ```
